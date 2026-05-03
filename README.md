@@ -1,4 +1,4 @@
-# Zadanie 12.9 - Planowanie gospodarcze (Williams)
+# Zadanie 12.9 - Economic Planning (Williams)
 
 Model LP rozwiązany w CPLEX Concert Technology (C++).
 
